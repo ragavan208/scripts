@@ -1,0 +1,12 @@
+
+### Vault ###
+.vlt
+
+### IntelliJ ###
+.idea/
+*.iml
+
+# Log files
+*.log
+
+.DS_Store
