@@ -9,4 +9,4 @@ echo "Unpacking the publish crx-quickstart";
 cd ../publish
 java -jar *.jar -unpack
 echo "Unpacked the publish crx-quickstart";
-../scripts/copy_start_scripts_to_author_publish.sh
+../aem_scripts/update_start_scripts_to_author_publish.sh

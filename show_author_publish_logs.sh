@@ -8,8 +8,6 @@
 #     iterm [CMD]             Open a new iTerm window and execute CMD
 #     iterm [PATH] [CMD] ...  You can prob'ly guess
 #
-# Example:
-#     iterm ~/Code/HelloWorld ./setup.sh
 #
 # References:
 #     iTerm AppleScript Examples:
